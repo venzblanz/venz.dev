@@ -405,7 +405,7 @@ with h1:
 </p>
 <div class="hero-stats">
   <div><div class="stat-val">4+</div><div class="stat-lbl">Architectural domains</div></div>
-  <div><div class="stat-val">2</div><div class="stat-lbl">Teams led</div></div>
+  <div><div class="stat-val">1</div><div class="stat-lbl">Team led</div></div>
   <div><div class="stat-val">7+</div><div class="stat-lbl">Languages</div></div>
   <div><div class="stat-val">99.6%</div><div class="stat-lbl">Best ROC-AUC</div></div>
 </div>
