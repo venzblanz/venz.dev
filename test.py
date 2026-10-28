@@ -740,4 +740,4 @@ with f2:
     code = st.text_input("", placeholder="↑↑↓↓←→←→BA", label_visibility="collapsed")
     if code.strip().lower() in ["↑↑↓↓←→←→ba", "uuddlrlrba", "konami", "return_by_death", "isekai"]:
         st.balloons()
-        st.code("[ARCH-HYPRLAND TTY1] >> Checkpoint saved.\nGuild Leader [EXODIA] & Level 99 Villager unlocked!", language="bash")
+        st.code("[ARCH-HYPRLAND TTY1] >> Checkpoint saved.\nGuild Leader [EXODIA]", language="bash")
